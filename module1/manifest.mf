@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: git
+OpenIDE-Module-Localizing-Bundle: git/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
